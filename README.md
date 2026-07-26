@@ -15,7 +15,9 @@ An interactive Power BI dashboard exploring sales trends, product performance, a
 - Total revenue across the period: **£456K** from **3K units sold** across **1K customers**.
 
 ## Dashboard Preview
-![Dashboard Screenshot](dashboard-screenshot.png)
+![Dashboard Screenshot](
+<img width="1305" height="717" alt="image" src="https://github.com/user-attachments/assets/4d0d73a7-de00-49af-802b-ec6e76b86243" />![Uploading image.png…]()
+
 
 ## What This Project Demonstrates
 - Building KPI cards, category breakdowns, and time-series visuals in Power BI
